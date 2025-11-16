@@ -1,6 +1,6 @@
 CC = gcc
 ICS = ..
-CFLAGS =  -Og  
+CFLAGS =  -O0  
 
 PROGS = sumvec \
     sumarrayrows\
